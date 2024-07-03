@@ -1,0 +1,5 @@
+http://localhost:4000/?query={hello}
+
+npm install ruru
+npm install graphql-yoga
+npm install lodash
